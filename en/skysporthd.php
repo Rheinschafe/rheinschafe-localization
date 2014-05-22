@@ -2,7 +2,7 @@
 
 return array(
 
-	'back' => 'Back to work',
+	'back' => 'Back to Cases',
 
 	'index' => array(
 		'meta' => array(
