@@ -3,7 +3,7 @@
 return array(
 	
 	'meta' => array(
-		'title' => 'TYPO3, Webentwicklung & Webdesign aus Duisburg am Rhein',
+		'title' => 'TYPO3, Web Development & Web Design from Duisburg am Rhein',
 		'description' => 'Die Rheinschafe GmbH aus Duisburg bietet Kreativlösungen zu allen Gestaltungs- und Entwicklungsfragen im digitalen Raum. Besondere Schwerpunkte liegen hierbei auf den Bereichen Content-Management-Systeme (TYPO3) und der Realisierung eigener Projekte.',
 		'keywords' => 'Rheinschafe, Duisburg, Webdesign, Webentwicklung, TYPO3'
 	),
