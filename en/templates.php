@@ -6,7 +6,7 @@ return array(
 	
 	'navigation' => array(
 		'startseite' => 'Home',
-		'arbeiten' => 'Work',
+		'arbeiten' => 'Cases',
 		'arbeitsweise' => 'Method',
 		'rheinschafe' => 'Rheinschafe',
 		'kontakt' => 'Contact',
