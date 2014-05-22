@@ -7,7 +7,7 @@ return array(
 		'twitter' => 'Rheinschafe auf Twitter',
 		'footer' => 'Footer öffnen',
 		'legalnotice' => 'Impressum',
-		'lang' => '<a href="http://rheinschafe.com" title="English">EN</a>'
+		'lang' => '<a href="http://rheinschafe.com" title="English">English</a>'
 	),
 
 	'footer' => array(
