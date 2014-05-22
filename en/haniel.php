@@ -2,58 +2,58 @@
 
 return array(
 
-	'back' => 'Back to Cases',
+	'back' => 'Back to Work',
 
 	'index' => array(
 		'meta' => array(
 			'title' => 'Haniel',
-			'description' => 'Migration der Website der Unternehmensgruppe in Familienbesitz mit Sitz in Duisburg Ruhrort',
+			'description' => 'Migration of HANIEL&acute;s Website from SAP to TYPO3',
 			'keywords' => 'TYPO3, SAP, Migration, Duisburg, Haniel',
 		),
 
 		'label' => 'Haniel',
 
 		'jumbotron' => array(
-			'headline1' => 'von SAP zu TYPO3',
-			'headline2' => 'Migration der Website der Unternehmensgruppe<br/> in Familienbesitz mit Sitz in Duisburg Ruhrort.',
-			'link1' => 'Projektvorstellung',
+			'headline1' => 'from SAP to TYPO3',
+			'headline2' => 'Migration of HANIEL&acute;s Website.',
+			'link1' => 'Case Study',
 			'link2' => 'Haniel.de'
 		)
 	),
 
 	'project' => array(
 		'meta' => array(
-			'title' => 'Projektvorstellung · Haniel',
-			'description' => 'Migration der Website der Unternehmensgruppe in Familienbesitz mit Sitz in Duisburg Ruhrort',
+			'title' => 'Case Study · Haniel',
+			'description' => 'Migration of HANIEL&acute;s Website from SAP to TYPO3.',
 			'keywords' => 'TYPO3, SAP, Migration, Duisburg, Haniel',
 		),
 
-		'label' => 'Projektvorstellung',
+		'label' => 'Case Study',
 
 		'jumbotron' => array(
 			'headline1' => 'Haniel',
-			'headline2' => 'Migration der Website',
-			'headline3' => 'von SAP zu TYPO3',
+			'headline2' => 'Migration of the Website',
+			'headline3' => 'from SAP to TYPO3',
 			'headline4' => 'Haniel.de',
 		),
 
 		'section1' => array(
-			'headline' => 'Von SAP zu TYPO3',
-			'paragraph' => 'Mit der Migration von SAP zu TYPO3 erhielt HANIEL.de innerhalb kürzester Zeit eine zukunftssichere und skalierbare Heimat in dem enterprisefähigen Open-Source CMS TYPO3. Die Umsetzung erfolgte unter den Gesichtspunkten aktueller Anforderungen auf Basis responsiver Templates.'
+			'headline' => 'From SAP to TYPO3',
+			'paragraph' => 'By migrating from SAP to TYPO3 the website was transfered in a short period of time into a scalable and futureproof home within a brand new TYPO3 system, the enteprise ready open source CMS. The implementation was realised by keeping current needs and specifications in mind and uses responsive templates.'
 		),
 
 		'section2' => array(
-			'headline' => 'Vielseitig',
-			'paragraph' => 'Die vielseitigen Funktionen des CMS erlauben den Redakteuren des Systems bspw. das Anlegen von weiteren Websites (Multisite) und die Redaktion von Facebook-Tabs aus dem CMS heraus. So werden heute auch die Seiten der Haniel Stiftung und der Haniel Akademie zentral verwaltet.'
+			'headline' => 'Versatile',
+			'paragraph' => 'By the many functions of TYPO3, the system can easily host a multi site environment. Today the sites of the Haniel Foundation and Haniel Academy are hosted and managed in one single TYPO3 installation.'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'von SAP zu TYPO3',
-			'item2' => 'Multisite',
-			'item3' => 'Responsive Umsetzung',
-			'item4' => 'Facebook-Tabs',
-			'item5' => 'Mehrsprachigkeit'
+			'headline' => 'Characteristics',
+			'item1' => 'From SAP to TYPO3',
+			'item2' => 'Multisite Environment',
+			'item3' => 'Responsive Templating',
+			'item4' => 'Facebook Tabs',
+			'item5' => 'Multiple Languages'
 		)
 	)
 );
