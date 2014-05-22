@@ -3,7 +3,7 @@
 return array(
 
 	'meta' => array(
-		'title' => 'Schafe Arbeiten',
+		'title' => 'A Herd&acute;s Work',
 		'description' => 'Schafe Arbeiten mit Fokus auf Nutzerfreundlichkeit, Technologie und Design, das passt.',
 		'keywords' => 'TYPO3, CMS, Facebook, Apps, Design, Nutzerfreundlichkeit',
 	),
