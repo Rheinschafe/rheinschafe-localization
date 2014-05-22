@@ -35,7 +35,7 @@ return array(
 			'typo3' => 'TYPO3',
 		),
 		'work' => array(
-			'index' => 'Work'
+			'index' => 'A Herd&acute;s Work'
 		),
 		'kontakt' => array(
 			'anfahrt' => 'Directions',
