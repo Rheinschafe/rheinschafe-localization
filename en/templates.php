@@ -7,7 +7,7 @@ return array(
 	'navigation' => array(
 		'startseite' => 'Home',
 		'arbeiten' => 'Work',
-		'arbeitsweise' => 'Methods',
+		'arbeitsweise' => 'Method',
 		'rheinschafe' => 'Rheinschafe',
 		'kontakt' => 'Contact',
 		'blog' => 'Blog'
@@ -34,11 +34,11 @@ return array(
 	),
 
 	'flock' => array(
-		'manager' => 'Flockmanager',
-		'headofdesign' => 'Head of Design',
+		'manager' => 'Herd Manager',
+		'headofdesign' => 'Art Director',
 		'mediadesigner' => 'Media Designer',
 		'mediadesigner_fem' => 'Media Designer',
-		'webdeveloper' => 'Web Developer',
+		'webdeveloper' => 'Web Engineer',
 		'projectassistance' => 'Project Assistance',
 		'juniorprojectmanager' => 'Junior Project Manager'
 	)
