@@ -9,8 +9,8 @@ return array(
 	),
 
 	'haniel' => array(
-		'headline' => 'von SAP zu TYPO3',
-		'subline' => 'Migration der Website der Unternehmens&shy;gruppe in Familienbesitz mit Sitz in Duisburg Ruhrort.'
+		'headline' => 'from SAP to TYPO3',
+		'subline' => 'Migration of HANIEL&acute;s website.'
 	),
 
 	'epson' => array(
