@@ -19,7 +19,7 @@ return array(
 		'phone' => 'Phone',
 		'email' => 'Email',
 		'attainable' => 'When can we reach you?',
-		'response' => 'Response via',
+		'response' => 'Respond via',
 		'submit' => 'Send message',
 		'thx' => array(
 			'headline' => 'Thank you for your message!',
@@ -34,7 +34,7 @@ return array(
 	),
 
 	'flock' => array(
-		'manager' => 'Herd Manager',
+		'manager' => 'CEO',
 		'headofdesign' => 'Art Director',
 		'mediadesigner' => 'Media Designer',
 		'mediadesigner_fem' => 'Media Designer',
