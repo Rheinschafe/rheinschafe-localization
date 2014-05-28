@@ -93,7 +93,7 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'Technology',
-			'headline2' => 'Is not everything. But its sensible use creates fascinating solutions!',
+			'headline2' => 'Isn\'t everything. But its sensible use creates fascinating solutions!',
 			'headline3' => 'We rely on HTML5, CSS3, Backbone, NodeJS, <a href="/technologie/typo3" title="TYPO3" class="underline">TYPO3</a>, JQuery, PHP &amp; MySQL, git, heroku and Amazon Web services.'
 		),
 
@@ -155,15 +155,15 @@ return array(
 	'service' => array(
 
 		'meta' => array(
-			'title' => 'Service',
+			'title' => 'Services to make our clients life more easy',
 			'description' => 'Editorial, maintenance and operation. We also assist you with recurrent tasks.',
 			'keywords' => 'SEO, E-Mail Marketing, Editing, Workshops, Maintenance',
 		),
 
-		'label' => 'Service',
+		'label' => 'Services',
 
 		'jumbotron' => array(
-			'headline1' => 'Service',
+			'headline1' => 'Services',
 			'headline2' => 'Editorial, maintenance and operation.',
 			'headline3' => 'We also assist you with recurrent tasks.'
 		),
