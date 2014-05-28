@@ -59,8 +59,8 @@ return array(
 		),
 
 		'section4' => array(
-			'headline' => 'Curious?',
-			'paragraph' => 'Have we made you curious? Let us inform you about all the opportunities TYPO3 can open up for your business. Let us invite you to a noncommittal appointment on our grazing lands. Of course, we can also visit you at your facility.'
+			'headline' => 'Got Curious?',
+			'paragraph' => 'Did you get curious? Let us inform you about all the opportunities TYPO3 can open up for your business. Let us invite you to a noncommittal appointment on our grazing lands. Of course, we can also visit you at your facility.'
 		),
 
 		'modals' => array(
