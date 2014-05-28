@@ -7,7 +7,7 @@ return array(
 		'meta' => array(
 			'title' => 'The Rheinschafe, who we are, how we are',
 			'description' => 'The Rheinschafe. Fascinatingly different.',
-			'keywords' => 'Rheinschafe, Duisburg, Ruhrgebiet, TYPO3, Usability'
+			'keywords' => 'Rheinschafe, Duisburg, Ruhr Area, TYPO3, Usability'
 		),
 
 		'label' => 'The Rheinschafe',
@@ -20,17 +20,17 @@ return array(
 
 		'content' => array(
 			'headline' => 'The about us part',
-			'paragraph1' => 'Since March 2009, we Rheinschafe graze in the German communications and media landscape. We are specialized in providing solutions in the digital space with a focus on a user-friendly and technically valuable implementation.',
-			'paragraph2' => 'Kai Lehmkühler and André Wartmann founded our agency with the catchy name, to make our customers\' digital life a little more comfortable and more beautiful.',
-			'paragraph3' => 'The flock has since grown to 14 sheep - a thank you to our customers and their confidence!'
+			'paragraph1' => 'We are grazing in the German communications and media landscape since 2009 and are specialized in providing solutions in the digital areas with a focus on usability and high standards in technology.',
+			'paragraph2' => 'Kai Lehmkühler and André Wartmann founded our agency with the catchy name, to make our customers\' digital life a little more comfortable and much more beautiful.',
+			'paragraph3' => 'The herd has since grown to 14 sheep - a thank you to our customers and their trust in us!'
 		),
 
 		'jobs' => array(
-			'headline' => 'Become a RHNSCHF*',
-			'item1' => 'Webdeveloper',
+			'headline' => 'Become a RHEINSCHAF',
+			'item1' => 'Web Engineer',
 			'item2' => 'Community Manager',
 			'item3' => 'Project Manager',
-			'item4' => 'Computer Scientist',
+			'item4' => 'Web Developer',
 			'item5' => 'Media designer',
 			'item6' => 'Apply now',
 		)
@@ -40,7 +40,7 @@ return array(
 		'meta' => array(
 			'title' => 'Why Rheinschafe?',
 			'description' => 'The Rheinschafe. Fascinatingly different.',
-			'keywords' => 'Rheinschafe, Duisburg, Ruhrgebiet, TYPO3, Usability'
+			'keywords' => 'Rheinschafe, Duisburg, Ruhr Area, TYPO3, Usability'
 		),
 
 		'label' => 'Why Rheinschafe?',
@@ -53,48 +53,48 @@ return array(
 
 		'content' => array(
 			'headline' => 'Why Rheinschafe?',
-			'paragraph1' => 'Admittedly, we are asked this question quite often and there are many myths and legends circulating around this question . The answer, however, is quite simple. In summer 2008, André designed the Rheinschaf (Rhine Sheep) as an idea for a mascot of the region.',
-			'paragraph2' => 'End of 2008, our founders sought for a name for the agency and came to the conclusion that they were Rheinschafe themselves. Raised in Voerde and Duisburg-Homberg, near the Rhine, they quickly decided to give our agency its distinctive name Rheinschafe. And it has remained until today.',
+			'paragraph1' => 'Admittedly, we are asked this question quite often and there are many myths and legends circulating around this question. The answer, however, is quite simple. In summer 2008, André Wartmann designed the Rheinschaf (Rhine Sheep) as an idea for a mascot of our region.',
+			'paragraph2' => 'In the end of 2008, our founders sought for a name for the agency and came to the conclusion that they were Rheinschafe themselves. Raised in Voerde and Duisburg-Homberg, near the Rhine, they quickly decided to give our agency its distinctive name Rheinschafe. And it has remained until today.',
 			'paragraph3' => 'And if you should think of the wolf in sheep\'s clothing, well - we do not mind.'
 		)
 	),
 
 	'herde' => array(
 		'meta' => array(
-			'title' => 'The flock, a wild bunch',
+			'title' => 'The herd, a wild bunch',
 			'description' => 'The Rheinschafe. Fascinatingly different.',
-			'keywords' => 'Rheinschafe, Duisburg, Ruhrgebiet, TYPO3, Usability'
+			'keywords' => 'Herd, Staff, Agency'
 		),
 
-		'label' => 'The flock',
+		'label' => 'The herd',
 
 		'jumbotron' => array(
-			'headline1' => 'The flock',
+			'headline1' => 'The herd',
 			'headline2' => 'a wild bunch.'
 		)
 	),
 
 	'weide' => array(
 		'meta' => array(
-			'title' => 'The grazing land. Always grass green, always full of sheep.',
+			'title' => 'The grazing land. Grass green and full of sheep.',
 			'description' => 'The Rheinschafe. Fascinatingly different.',
-			'keywords' => 'Rheinschafe, Duisburg, Ruhrgebiet, TYPO3, Usability'
+			'keywords' => 'Grazing land, Offices, Wintgensstr, Duissern'
 		),
 
-		'label' => 'The grazing land',
+		'label' => 'Our grazing lands',
 
 		'jumbotron' => array(
-			'headline1' => 'The grazing land',
-			'headline2' => 'Always grass green, always full of sheep.',
-			'headline3' => 'Here we feel (almost) at home.'
+			'headline1' => 'Our grazing lands',
+			'headline2' => 'Grass green and full of sheep.',
+			'headline3' => 'Where we feel at home. #almost'
 		)
 	),
 
 	'schafwerden' => array(
 		'meta' => array(
 			'title' => 'Become a sheep, your new job as a Rheinschaf',
-			'description' => 'Strengthen the flock of Rheinschafe and work in different areas of our company.',
-			'keywords' => 'Application, Duisburg, Ruhrgebiet, IT'
+			'description' => 'Strengthen the herd and work in the different fields of our digital agency.',
+			'keywords' => 'Application, Job offers, Ruhr Area, Ruhrgebiet, Online, IT'
 		),
 
 		'label' => 'Become a sheep',
@@ -105,16 +105,16 @@ return array(
 			'headline3' => 'Your new job as a Rheinschaf, apply now!'
 		),
 
-		'paragraph' => 'Strengthen the flock of Rheinschafe and work in different areas of our company. Unsolicited applications are welcome - we look forward to receiving your application!',
+		'paragraph' => 'Strengthen the herd of Rheinschafe and work in the different fields of our digital agency. Unsolicited applications are welcome - we look forward to receiving your application!',
 
 		'jobs' => array(
-			'headline1' => 'Permanent position',
-			'developer' => 'Webdeveloper',
+			'headline1' => 'Permanent positions',
+			'developer' => 'Web Engineer',
 			'communitymanager' => 'Community Manager',
 			'projectmanager' => 'Project Manager Social Media',
 
 			'headline2' => 'Vocational training',
-			'computerscientist' => 'Computer Scientist',
+			'computerscientist' => 'Web Developer',
 			'mediadesigner' => 'Media Designer',
 			'marketing' => 'Marketing Communications',
 
