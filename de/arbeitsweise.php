@@ -5,16 +5,16 @@ return array(
 	'index' => array(
 
 		'meta' => array(
-			'title' => 'So arbeiten wir',
+			'title' => 'So arbeitet unsere Agentur für Sie',
 			'description' => 'Wir Realisieren und betreuen Anwendungen/Apps, Kampagnen, Websites, Portale, E-Commerce-Lösungen, Microsites für Kunden und Agenturen',
-			'keywords' => 'Apps, Kampagnen, Websites, Portale, Microsites, Agenturen',
+			'keywords' => 'TYPO3, CMS, Apps, Kampagnen, Websites, Portale, Microsites, Agenturen',
 		),
 
 		'label' => 'Arbeitsweise',
 
 		'jumbotron' => array(
 			'headline1' => 'So arbeiten wir',
-			'headline2' => 'von A bis Z oder Modular. Sie entscheiden, welche Leistungen zum Einsatz kommen.',
+			'headline2' => 'Von A bis Z oder Modular. Sie entscheiden, welche Leistungen zum Einsatz kommen.',
 			'headline3' => 'Unsere Betrachtungsweise bleibt immer ganzheitlich.'
 		),
 
@@ -29,9 +29,9 @@ return array(
 	'konzeption' => array(
 
 		'meta' => array(
-			'title' => 'Konzeption',
-			'description' => 'Wir Realisieren und betreuen Anwendungen/Apps, Kampagnen, Websites, Portale, E-Commerce-Lösungen, Microsites für Kunden und Agenturen',
-			'keywords' => 'Bedarfsanalyse, Content-Planung, Funktionsplanung, Wireframes',
+			'title' => 'Fachgerechte Konzeption von der Analyse bis zur Planung',
+			'description' => 'Mit der seriösen Konzeption eines Projektes legen wir den Grundstein für eine erfolgreiche Umsetzung.',
+			'keywords' => 'Konzeption, Bedarfsanalyse, Content-Planung, Funktionsplanung, Wireframes',
 		),
 
 		'label' => 'Konzeption',
@@ -64,9 +64,9 @@ return array(
 	'kreation' => array(
 
 		'meta' => array(
-			'title' => 'Kreation',
+			'title' => 'Kreation mit Leidenschaft',
 			'description' => 'Mit viel Liebe zum Detail kreieren wir nutzerfreundliche und zeitgemäße Designs',
-			'keywords' => 'Design, Kreation, Corporate-Design, Nutzerfreundlich',
+			'keywords' => 'Design, Kreation, Corporate-Design, Usability, UX, Interface-Design',
 		),
 
 		'label' => 'Kreation',
@@ -84,7 +84,7 @@ return array(
 	'entwicklung' => array(
 
 		'meta' => array(
-			'title' => 'Technologie',
+			'title' => 'Web-Technologie auf höchstem Standard',
 			'description' => 'Faszinierende Lösungen mit HTML5, CSS3, TYPO3, JQuery, PHP & MySQL.',
 			'keywords' => 'HTML5, CSS3, TYPO3, JQuery, PHP, MySQL',
 		),
@@ -155,8 +155,8 @@ return array(
 	'service' => array(
 
 		'meta' => array(
-			'title' => 'Service',
-			'description' => 'Redaktion, Wartung und Betrieb. Wir unterstützen Sie auch bei wiederkehrenden Aufgaben.',
+			'title' => 'Serviceleistungen rund um Redaktion, Wartung und Betrieb.',
+			'description' => 'Wir unterstützen Sie fortwährend, auch bei wiederkehrenden Aufgaben.',
 			'keywords' => 'SEO, E-Mail-Marketing, Redaktion, Workshops, Wartung',
 		),
 
