@@ -4,8 +4,8 @@ return array(
 	
 	'meta' => array(
 		'title' => 'TYPO3, Web Development & Web Design from Duisburg am Rhein',
-		'description' => 'Die Rheinschafe GmbH aus Duisburg bietet Kreativlösungen zu allen Gestaltungs- und Entwicklungsfragen im digitalen Raum. Besondere Schwerpunkte liegen hierbei auf den Bereichen Content-Management-Systeme (TYPO3) und der Realisierung eigener Projekte.',
-		'keywords' => 'Rheinschafe, Duisburg, Webdesign, Webentwicklung, TYPO3'
+		'description' => 'Rheinschafe GmbH from Duisburg offers services in all areas of the creative and engineering fields in the digital area. With core qualifications in Content Management Systems e.g. TYPO3 and individual App engineering.',
+		'keywords' => 'Rheinschafe, Duisburg, Webdesign, Web Engineering, TYPO3'
 	),
 
 	'jumbotron' => array(
@@ -18,17 +18,17 @@ return array(
 		'what' => array(
 			'headline' => 'What we do',
 			'text' => 'We develop high-standard customized digital solutions.',
-			'button' => 'Discover'
+			'button' => 'Explore'
 		),
 		'how' => array(
 			'headline' => 'How we do it',
 			'text' => 'We do it user-friendly, with a lot of love, using state of the art technology.',
-			'button' => 'Discover'
+			'button' => 'Explore'
 		),
 		'who' => array(
 			'headline' => 'Who we are',
-			'text' => 'A flock overflowing with creativity – visit us on our grazing land.',
-			'button' => 'Discover'
+			'text' => 'A herd overflowing with creativity – visit us on our grazing lands.',
+			'button' => 'Explore'
 		)
 	),
 
