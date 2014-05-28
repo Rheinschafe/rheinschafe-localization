@@ -5,16 +5,16 @@ return array(
 	'index' => array(
 
 		'meta' => array(
-			'title' => 'More Technology',
-			'description' => 'Our service focuses on digital solutions for core technologies like TYPO3, Content Management, App Development',
+			'title' => 'Technology we use',
+			'description' => 'Our services focuse on digital solutions with core technologies like TYPO3, Content Management, App Development',
 			'keywords' => 'TYPO3, Content Management, App Development, Duisburg, Ruhrgebiet, NRW',
 		),
 
-		'label' => 'More Technology',
+		'label' => 'Special Fields',
 
 		'jumbotron' => array(
-			'headline1' => 'More Technology',
-			'headline2' => 'Our service focuses on digital solutions<br/>for core technologies like',
+			'headline1' => 'Special Fields',
+			'headline2' => 'Our services focuse on digital solutions<br/>in core technologies like',
 			'link1' => 'TYPO3',
 			'link2' => 'Content Management',
 			'link3' => 'App Development'
