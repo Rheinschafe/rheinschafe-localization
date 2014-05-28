@@ -4,8 +4,8 @@ return array(
 
 	'meta' => array(
 		'title' => 'A Herd&acute;s Work',
-		'description' => 'Schafe Arbeiten mit Fokus auf Nutzerfreundlichkeit, Technologie und Design, das passt.',
-		'keywords' => 'TYPO3, CMS, Facebook, Apps, Design, Nutzerfreundlichkeit',
+		'description' => 'Our cases represent our focus on usabilty, high standards in technology and Design crafted with love.',
+		'keywords' => 'TYPO3, CMS, Facebook, Apps, Design, Usability',
 	),
 
 	'haniel' => array(
