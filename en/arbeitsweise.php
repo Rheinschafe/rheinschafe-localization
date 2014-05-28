@@ -5,39 +5,39 @@ return array(
 	'index' => array(
 
 		'meta' => array(
-			'title' => 'How we work',
-			'description' => 'Wir Realisieren und betreuen Anwendungen/Apps, Kampagnen, Websites, Portale, E-Commerce-Lösungen, Microsites für Kunden und Agenturen',
-			'keywords' => 'Apps, Campaigns, Websites, Portals, Microsites, Agencies',
+			'title' => 'How we work at our agency',
+			'description' => 'We develop and maintain Web Apps, Individual Software, Campaigns, Websites, Portals, E-Commerce and Microsites',
+			'keywords' => 'Apps, Campaigns, Websites, Portals, Microsites, E-Commerce',
 		),
 
-		'label' => 'Methods',
+		'label' => 'Method',
 
 		'jumbotron' => array(
 			'headline1' => 'How we work',
-			'headline2' => 'from A to Z or modularly. You decide which services you need.',
-			'headline3' => 'Our approach always remains holistic.'
+			'headline2' => 'From A to Z or modular. You choose from our wide range of services.',
+			'headline3' => 'Our approach will always be client centered.'
 		),
 
 		'links' => array(
-			'konzeption' => 'Conception',
+			'konzeption' => 'Concept',
 			'kreation' => 'Creation',
-			'entwicklung' => 'Development',
-			'service' => 'Service',
+			'entwicklung' => 'Engineering',
+			'service' => 'Services',
 		)
 	),
 
 	'konzeption' => array(
 
 		'meta' => array(
-			'title' => 'Conception',
-			'description' => 'Wir Realisieren und betreuen Anwendungen/Apps, Kampagnen, Websites, Portale, E-Commerce-Lösungen, Microsites für Kunden und Agenturen',
+			'title' => 'Concept for digital solutions',
+			'description' => 'We concept Web Apps, Individual Software, Campaigns, Websites, Portals, E-Commerce and Microsites',
 			'keywords' => 'Demand analysis, Content Planning, Functional planning, Wireframing',
 		),
 
-		'label' => 'Conception',
+		'label' => 'Concept',
 
 		'jumbotron' => array(
-			'headline1' => 'Conception'
+			'headline1' => 'Concept'
 		),
 
 		'section1' => array(
@@ -64,8 +64,8 @@ return array(
 	'kreation' => array(
 
 		'meta' => array(
-			'title' => 'Creation',
-			'description' => 'Mit viel Liebe zum Detail kreieren wir nutzerfreundliche und zeitgemäße Designs',
+			'title' => 'Creation from the heart',
+			'description' => 'With love for the detail we create user friendly and contemporary designs.',
 			'keywords' => 'Design, Creation, Corporate Design, Usability',
 		),
 
@@ -84,9 +84,9 @@ return array(
 	'entwicklung' => array(
 
 		'meta' => array(
-			'title' => 'Technologie',
-			'description' => 'Faszinierende Lösungen mit HTML5, CSS3, TYPO3, JQuery, PHP & MySQL.',
-			'keywords' => 'HTML5, CSS3, TYPO3, JQuery, PHP, MySQL',
+			'title' => 'Web Development with high standard technology',
+			'description' => 'Fascinating digital solutions crafted with passion and coded in HTML5, CSS3, NodeJS, JavaScript for and with TYPO3, JQuery, PHP & MySQL.',
+			'keywords' => 'HTML5, CSS3, TYPO3, JQuery, PHP, MySQL, NodeJS, Backbone',
 		),
 
 		'label' => 'Development',
