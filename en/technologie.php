@@ -65,17 +65,17 @@ return array(
 
 		'modals' => array(
 			'projects' => array(
-				'headline' => 'TYPO3-Projekte',
-				'paragraph1' => 'Sicher haben Sie bereits gemerkt, dass wir über eine ganze Reihe an Fähigkeiten verfügen. Wir möchten Ihnen jedoch nicht vorenthalten, dass wir eines ganz besonders gut können: Content-Management mit TYPO3!',
-				'paragraph2' => 'Seit unserer Gründung 2009 haben wir für unsere Kunden über 100 Web-Projekte erfolgreich umsetzen dürfen.',
-				'paragraph3' => 'Werfen Sie einen Blick in unsere Arbeiten.'
+				'headline' => 'TYPO3-Projects',
+				'paragraph1' => 'By now you surely recognized, that we are kind of skilled. But we do not want to hide our specialty from you: Managing content with TYPO3!',
+				'paragraph2' => 'We realised more than 100 web projects for our clients, since our foundation in 2009.',
+				'paragraph3' => 'Take a minute and have a look at our cases.'
 			),
 
 			'community' => array(
-				'headline' => 'Die rheinschafe sind Teil der TYPO3 Community',
-				'paragraph1' => '2006 und 2007 waren wir Teil der T3Con in Karlsruhe. Und in 2009 waren wir dabei, als zur T3UXW in Behringen 30 TYPO3-Entwickler und Designer aus ganz Europa zusammen kamen, um die Benutzerfreundlichkeit von TYPO3 noch weiter voran zu treiben.',
-				'paragraph2' => 'Anfang 2013 fand der erste TYPO3 Extbase Codesprint 2013 auf der Weide der Rheinschafe statt und TYPO3 Entwickler aus ganz Deutschland trafen sich auf der Weide um die Extbase Entwicklung voranzutreiben.',
-				'paragraph3' => 'Werfen Sie einen Blick in unsere Arbeiten.',
+				'headline' => 'Rheinschafe are part of the TYPO3 Community',
+				'paragraph1' => '2006 and 2007 we participated in the T3Con in Karlsruhe, Germany. In 2009 we were invited to T3UXW in Behringen, when 30 TYPO3 engineers and designer from all over europe gathered to improve TYPO3\'s usability.',
+				'paragraph2' => 'The first Extbase Codesprint in 2013 was held in our offices, the Rheinschafe\'s grazing lands and TYPO3 engineers met to push the development of Extbase even further.',
+				'paragraph3' => 'Take a minute and have a look at our cases.',
 			)
 		)
 	),
@@ -83,15 +83,15 @@ return array(
 	'cms' => array(
 		'meta' => array(
 			'title' => 'Content Management, Microsite, Intranet, Extranet',
-			'description' => 'Ob Microsite, Grosse Website oder komplexe Intranet- und Extranet-Lösungen',
-			'keywords' => 'Content Management, Microsite, Intranet, Duisburg, Ruhrgebiet, NRW',
+			'description' => 'From Microsite to large scale Website or complex Intranet- and Extranet solution',
+			'keywords' => 'Content Management, Microsites, Intranet, Duisburg, Ruhrgebiet, NRW',
 		),
 
 		'label' => 'Content Management',
 
 		'jumbotron' => array(
 			'headline1' => 'Content-Management',
-			'headline2' => 'Ob Microsite, Grosse Website oder<br/>komplexe Intranet- und Extranet-Lösungen'
+			'headline2' => 'From Microsite to large scale Website<br/>or complex Intranet- and Extranet solution'
 		),
 
 		'section1' => array(
@@ -126,7 +126,7 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'App Development',
-			'headline2' => 'AIt’s all about apps:',
+			'headline2' => 'It’s all about apps:',
 			'headline3' => 'Individual software, Facebook apps, Smartphone or web apps',
 		),
 
@@ -141,7 +141,7 @@ return array(
 		),
 
 		'section3' => array(
-			'headline' => 'Individual Software',
+			'headline' => 'Individual Engineering',
 			'paragraph' => 'From time your time our customers plans and aims are very individual and standard open source software reaches it limits. But we can break through limits and create tailored apps for you.'
 		),
 
