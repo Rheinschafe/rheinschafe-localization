@@ -27,8 +27,8 @@ return array(
 			'button' => 'Schließen'
 		),
 		'error' => array(
-			'headline' => 'Huch, da ist was schiefgelaufen',
-			'paragraph' => 'Huch, da ist was schiefgelaufen. Bitte überprüfen Sie, ob Sie alle Felder korrekt ausgefüllt haben.',
+			'headline' => 'Huch, da ist etwas schiefgelaufen',
+			'paragraph' => 'Huch, da ist etwas schiefgelaufen. Bitte überprüfen Sie, ob Sie alle Felder korrekt ausgefüllt haben.',
 			'button' => 'Schließen'
 		)
 	),
