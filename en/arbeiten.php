@@ -3,7 +3,7 @@
 return array(
 
 	'meta' => array(
-		'title' => 'A Herd&acute;s Work',
+		'title' => 'A Herd\'s Work',
 		'description' => 'Our cases represent our focus on usabilty, high standards in technology and Design crafted with love.',
 		'keywords' => 'TYPO3, CMS, Facebook, Apps, Design, Usability',
 	),
