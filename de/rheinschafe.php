@@ -84,7 +84,7 @@ return array(
 		'label' => 'Die Weide',
 
 		'jumbotron' => array(
-			'headline1' => 'Die Herde',
+			'headline1' => 'Die Weide',
 			'headline2' => 'Immer grasgrün, immer voller Schafe.',
 			'headline3' => 'Hier fühlen wir uns (fast) wie zuhause.'
 		)
