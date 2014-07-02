@@ -39,7 +39,7 @@ return array(
 
 		'content' => array(
 			'headline' => 'Deine Traumelf auf Facebook',
-			'paragraph' => 'Mit der Facebook-App „Traumelf“ kann der Nutzer ein Team seiner Wahl per „Drag and Drop“ zusammenstellen. Nach dem erfolgreichen Launch zur EM 2012 wurde die App auf die folgende Bundesliga-Saison ausgedehnt.',
+			'paragraph' => 'Mit der Facebook-App „Traumelf“ kann der Nutzer ein Team seiner Wahl per „Drag and Drop“ zusammenstellen. Nach dem erfolgreichen Launch zur EM 2012 wurde die App auf die folgende Bundesliga-Saison ausgedehnt und ist auch 2014 wieder im Einsatz zur WM in Brasilien.',
 		),
 
 		'features' => array(
