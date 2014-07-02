@@ -39,7 +39,7 @@ return array(
 
 		'content' => array(
 			'headline' => 'Your dream team on Facebook',
-			'paragraph' => 'The Facebook app “Dream Team” allows users to put together a team of his choice via drag and drop.  Following the success during the World Cup 2012, the app was also used for the succeeding Bundesliga season.',
+			'paragraph' => 'The Facebook app “Dream Team” allows users to put together a team of his choice via drag and drop. Following the success during the World Cup 2012, the app was also used for the succeeding Bundesliga season and is coming back for the World Cup 2014.',
 		),
 
 		'features' => array(
