@@ -123,8 +123,8 @@ return array(
 
 		'modals' => array(
 			'developer' => array(
-				'headline' => 'Webentwickler',
-				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Webentwickler. Die Entwicklung und Pflege technisch anspruchsvoller Online-Projekte in der kreativen und leistungsfähigen Herde der Rheinschafe wird Deine Aufgabe sein.',
+				'headline' => 'TYPO3-Entwickler',
+				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen TYPO3-Entwickler. Der Aufbau und die Weiterentwicklung leistungsstarker Content-Management-Systeme in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
 					'item1' => 'Erfahrung in der Entwicklung von Internet-Anwendungen', 
@@ -148,57 +148,55 @@ return array(
 				'paragraph3' => 'Bitte sende diese inkl. Deines frühestmöglichen Eintrittstermins in digitaler Form an <a href="mailto:bewerbung@rheinschafe.de">bewerbung@rheinschafe.de</a> und achte dabei bitte auf diese Kriterien.'
 			),
 
-			'communitymanager' => array(
-				'headline' => 'Community Manager/in Social Media',
-				'paragraph1' => 'Bock darauf, großartiges zu leisten? Wir haben derzeit einen Platz auf unserer Weide zu vergeben und sind auf der Suche nach einer/m kreativen Umdieeckedenker/in mit hemdsärmeligem Charme, großer Lebensfreude und einschlägigen Erfahrungen im Bereich Social Media.',
-				'paragraph2' => 'Du solltest bereits Erfahrungen im Community Management gesammelt haben und kommunikationsstark sein. Die Kommunikation über soziale Netzwerke wie Facebook, Twitter & Co ist Dir in Fleisch und Blut übergegangen und Du bloggst so gerne, wie ein Schaf in der Sonne steht.',
-				'paragraph3' => 'Du bist verantwortlich für die Betreuung der Social Media Community unserer Kunden und interagierst mit Nutzeranfragen und Kundendienst gleichermaßen. Wenn ein Shitstorm droht, läufst Du zur Hochform auf und Dein Dienstleistungsverständnis ist kundenfreundlich und sachgemäß.',
-				'paragraph4' => 'Du erstellst Redaktionspläne und bist in Zusammenarbeit mit der Projekteilung für den Erfolg der Social Media Betreuung verantwortlich.',
+		'modals' => array(
+			'developer' => array(
+				'headline' => 'Frontend-Entwickler',
+				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Webentwickler. Die Entwicklung und Pflege technisch anspruchsvoller Online-Projekte in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Einschlägige Berufserfahrung', 
-					'item2' => 'Abgeschlossenes Studium oder vergleichbare Ausbildung',
-					'item3' => 'Begeisterung für Social Media',
-					'item4' => 'Ausgeprägtes Prozessdenken und einen hohen Qualitätsanspruch',
-					'item5' => 'Sehr gute Kommunikationsfähigkeit',
-					'item6' => 'Ausdrucksstärke',
-					'item7' => 'Engagement, Zuverlässigkeit und Belastbarkeit',
-					'item8' => 'Sehr gute Englischkenntnisse in Wort und Schrift',
+					'item1' => 'Erfahrung in der Entwicklung von modernen Web-Frontends', 
+					'item2' => 'Stärken in der Entwicklung mit JavaScript & HTML5',
+					'item3' => 'Erfahrung mit Responsive und Mobile First Projekten',
+					'item4' => 'Zuverlässigkeit und Engagement',
+					'item5' => 'Ausgeprägte Team- und Kommunikationsfähigkeit',
+					'item6' => 'Eigeninitiative'
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'Teil der grandiosen Herde zu werden', 
-					'item2' => 'spannende Projekte für interessante Kunden',
-					'item3' => 'Gestaltungsspielraum und kreative Entfaltung',
-					'item4' => 'Faszination',
+					'item1' => 'StartUp-Atmosphäre', 
+					'item2' => 'Eine sympathische Herde', 
+					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld', 
+					'item4' => 'Aus- und Weiterbildungsangebote', 
+					'item5' => 'Teilnahme an Conventions, BarCamps, etc.'
 				),
-				'paragraph5' => 'Willst Du Teil der Herde werden? Dann nichts wie ran - sende uns Deine Bewerbungsunterlagen!',
+				'paragraph2' => 'Wenn Du über eine gute Auffassungsgabe verfügst, Dich leicht in einer angenehmen Arbeitsatmosphäre akklimatisierst und Dich bei uns weiterentwickeln möchtest, freuen wir uns auf Deine aussagekräftige Bewerbung!',
+				'paragraph3' => 'Bitte sende diese inkl. Deines frühestmöglichen Eintrittstermins in digitaler Form an <a href="mailto:bewerbung@rheinschafe.de">bewerbung@rheinschafe.de</a> und achte dabei bitte auf diese Kriterien.'
 			),
 
-			'projectmanager' => array(
-				'headline' => 'Projektleiter/in Social Media und digitale Kommunikation',
-				'paragraph1' => 'Bock darauf, großartiges zu leisten? Wir haben derzeit einen Platz auf unserer Weide zu vergeben und sind auf der Suche nach einer/m kreativen Umdieeckedenker/in mit hemdsärmeligem Charme, großer Lebensfreude und einschlägigen Erfahrungen im Bereich Social Media.',
-				'paragraph2' => 'Du solltest bereits Erfahrungen in Community Management und Social Media PR gemacht haben und mit schlüssigen Konzepten und Ideen zu überzeugen wissen. Darüber hinaus ist ein gutes Gespür für alles Machbare und Wagbare eindeutig von Vorteil!',
-				'paragraph3' => 'Du bist verantwortlich für die Planung, Koordination und Organisation von Online-Projekten (Websites, Web-Apps, Social-Media-Kampagnen) mit technologischem und kreativ-innovativem Schwerpunkt. Das Aufgabengebiet umfasst die zentrale Steuerung von Online-Projekten von der Analyse bis zur Umsetzung einer erarbeiteten Lösung, sowie die abschließende Qualitätskontrolle.',
-				'paragraph4' => 'Du koordinierst Teile der Herde, erstellst Projektpläne und bist in Zusammenarbeit mit der Geschäftsführung auch für die Erfolgs- und Abrechnungskontrolle zuständig.',
+		'modals' => array(
+			'developer' => array(
+				'headline' => 'Anwendungs-Entwickler',
+				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Anwendungs-Entwickler. Die Entwicklung und Pflege technisch anspruchsvoller Web-Anwendungen in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Einschlägige Berufserfahrung', 
-					'item2' => 'Abgeschlossenes Studium oder vergleichbare Ausbildung',
-					'item3' => 'Begeisterung für Social Media',
-					'item4' => 'Ausgeprägtes Prozessdenken und einen hohen Qualitätsanspruch',
-					'item5' => 'Gute Kommunikations- und Präsentationsfähigkeiten',
-					'item6' => 'Engagement, Zuverlässigkeit und Belastbarkeit',
-					'item7' => 'Sehr gute Englischkenntnisse in Wort und Schrift',
+					'item1' => 'Erfahrung in der Entwicklung von Web-Anwendungen', 
+					'item2' => 'Stärken in der Entwicklung mit PHP & MySQL',
+					'item3' => 'Erfahrungen mit Serverside-JS, Node und Backbone',
+					'item4' => 'Erfahrungen mit PHP-Frameworks wie Laravel oder CakePHP',
+					'item5' => 'OOP',
+					'item6' => 'Zuverlässigkeit und Engagement',
+					'item7' => 'Ausgeprägte Team- und Kommunikationsfähigkeit',
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'Teil der grandiosen Herde zu werden', 
-					'item2' => 'spannende Projekte für interessante Kunden',
-					'item3' => 'Gestaltungsspielraum und kreative Entfaltung',
-					'item4' => 'Faszination',
+					'item1' => 'StartUp-Atmosphäre', 
+					'item2' => 'Eine sympathische Herde', 
+					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld', 
+					'item4' => 'Aus- und Weiterbildungsangebote', 
+					'item5' => 'Teilnahme an Conventions, BarCamps, etc.'
 				),
-				'paragraph5' => 'Willst Du Teil der Herde werden? Dann nichts wie ran - sende uns Deine Bewerbungsunterlagen!',
+				'paragraph2' => 'Wenn Du über eine gute Auffassungsgabe verfügst, Dich leicht in einer angenehmen Arbeitsatmosphäre akklimatisierst und Dich bei uns weiterentwickeln möchtest, freuen wir uns auf Deine aussagekräftige Bewerbung!',
+				'paragraph3' => 'Bitte sende diese inkl. Deines frühestmöglichen Eintrittstermins in digitaler Form an <a href="mailto:bewerbung@rheinschafe.de">bewerbung@rheinschafe.de</a> und achte dabei bitte auf diese Kriterien.'
 			),
 
 			'computerscientist' => array(
