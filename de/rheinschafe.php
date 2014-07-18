@@ -109,9 +109,9 @@ return array(
 
 		'jobs' => array(
 			'headline1' => 'Festanstellung',
-			'developer' => 'Webentwickler',
-			'communitymanager' => 'Community Manager/in',
-			'projectmanager' => 'Projektleiter/in Social Media',
+			'developer' => 'TYPO3-Entwickler',
+			'communitymanager' => 'Frontend-Entwickler',
+			'projectmanager' => 'Anwendungs-Entwickler',
 
 			'headline2' => 'Ausbildung',
 			'computerscientist' => 'Fachinformatiker/in',
