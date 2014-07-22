@@ -27,9 +27,9 @@ return array(
 
 		'jobs' => array(
 			'headline' => 'Become a RHEINSCHAF',
-			'item1' => 'Web Engineer',
-			'item2' => 'Community Manager',
-			'item3' => 'Project Manager',
+			'item1' => 'TYPO3 Developer',
+			'item2' => 'Frontend Developer',
+			'item3' => 'Application Developer',
 			'item4' => 'Web Developer',
 			'item5' => 'Media designer',
 			'item6' => 'Apply now',
@@ -109,9 +109,9 @@ return array(
 
 		'jobs' => array(
 			'headline1' => 'Permanent positions',
-			'developer' => 'TYPO3 Engineer',
-			'communitymanager' => 'Frontend Developer',
-			'projectmanager' => 'Web Developer',
+			'typo3entwickler' => 'TYPO3 Developer',
+			'frontendentwickler' => 'Frontend Developer',
+			'anwendungsentwickler' => 'Application Developer',
 
 			'headline2' => 'Vocational training',
 			'computerscientist' => 'Web Developer',
@@ -122,7 +122,7 @@ return array(
 		),
 
 		'modals' => array(
-			'developer' => array(
+			'typo3entwickler' => array(
 				'headline' => 'TYPO3-Entwickler',
 				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen TYPO3-Entwickler. Der Aufbau und die Weiterentwicklung leistungsstarker Content-Management-Systeme in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
@@ -148,8 +148,7 @@ return array(
 				'paragraph3' => 'Bitte sende diese inkl. Deines frühestmöglichen Eintrittstermins in digitaler Form an <a href="mailto:bewerbung@rheinschafe.de">bewerbung@rheinschafe.de</a> und achte dabei bitte auf diese Kriterien.'
 			),
 
-		'modals' => array(
-			'developer' => array(
+			'frontendentwickler' => array(
 				'headline' => 'Frontend-Entwickler',
 				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Webentwickler. Die Entwicklung und Pflege technisch anspruchsvoller Online-Projekte in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
@@ -173,8 +172,7 @@ return array(
 				'paragraph3' => 'Bitte sende diese inkl. Deines frühestmöglichen Eintrittstermins in digitaler Form an <a href="mailto:bewerbung@rheinschafe.de">bewerbung@rheinschafe.de</a> und achte dabei bitte auf diese Kriterien.'
 			),
 
-		'modals' => array(
-			'developer' => array(
+			'anwendungsentwickler' => array(
 				'headline' => 'Anwendungs-Entwickler',
 				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Anwendungs-Entwickler. Die Entwicklung und Pflege technisch anspruchsvoller Web-Anwendungen in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
