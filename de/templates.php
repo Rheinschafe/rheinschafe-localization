@@ -10,7 +10,21 @@ return array(
 		'arbeitsweise' => 'Arbeitsweise',
 		'rheinschafe' => 'Rheinschafe',
 		'kontakt' => 'Kontakt',
+		'technologie' => 'Technologie',
 		'blog' => 'Blog'
+	),
+
+	'newsletter' => array(
+		'thx' => array(
+			'headline' => 'Vielen Dank!',
+			'paragraph' => 'Vielen Dank, Weidenpost erfolgreich abonniert!',
+			'button' => 'Schließen'
+		),
+		'error' => array(
+			'headline' => 'Huch, da ist etwas schiefgelaufen',
+			'paragraph' => 'Huch, da ist etwas schiefgelaufen. Bitte überprüfen Sie, ob Ihre E-Mail-Adresse korrekt ist.',
+			'button' => 'Schließen'
+		)
 	),
 
 	'contact' => array(

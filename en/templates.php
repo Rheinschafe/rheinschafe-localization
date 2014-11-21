@@ -10,7 +10,21 @@ return array(
 		'arbeitsweise' => 'Method',
 		'rheinschafe' => 'Rheinschafe',
 		'kontakt' => 'Contact',
+		'technologie' => 'Technology',
 		'blog' => 'Blog'
+	),
+
+	'newsletter' => array(
+		'thx' => array(
+			'headline' => 'Thank you!',
+			'paragraph' => 'Thanks, you subscribed successfully to Weidenpost!',
+			'button' => 'Close'
+		),
+		'error' => array(
+			'headline' => 'Oops, something went wrong.',
+			'paragraph' => 'Oops, something went wrong. Please make sure that you filled in your email correctly.',
+			'button' => 'Close'
+		)
 	),
 
 	'contact' => array(
