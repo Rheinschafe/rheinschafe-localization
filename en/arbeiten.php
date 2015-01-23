@@ -33,5 +33,14 @@ return array(
 		'subline' => 'Apps to involve and activate the channel’s community'
 	),
 
+	'regiodot' => array(
+		'headline' => 'Regiodot',
+		'subline' => 'Eine Region, ein Gefühl: Website und Kampagne für Regiodot'
+	),
+
+	'centro' => array(
+		'headline' => 'CentrO',
+		'subline' => 'Europas größtes Shopping-und Freizeitzentrum'
+	)
 
 );
