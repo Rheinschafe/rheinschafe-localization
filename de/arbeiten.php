@@ -10,7 +10,7 @@ return array(
 
 	'haniel' => array(
 		'headline' => 'von SAP zu TYPO3',
-		'subline' => 'Migration der Website der Unternehmens&shy;gruppe in Familienbesitz mit Sitz in Duisburg Ruhrort.'
+		'subline' => 'Migration der Website der Investment&shy;holding in Familienbesitz mit Sitz in Duisburg Ruhrort.'
 	),
 
 	'epson' => array(
