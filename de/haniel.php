@@ -44,7 +44,7 @@ return array(
 
 		'section2' => array(
 			'headline' => 'Vielseitig',
-			'paragraph' => 'Die vielseitigen Funktionen des CMS erlauben den Redakteuren des Systems bspw. das Anlegen von weiteren Websites (Multisite) und die Redaktion von Facebook-Tabs aus dem CMS heraus. So werden heute auch die Seiten der Haniel Stiftung zentral verwaltet.'
+			'paragraph' => 'Die vielseitigen Funktionen des CMS erlauben den Redakteuren des Systems bspw. das Anlegen von weiteren Websites (Multisite) und die Redaktion von Facebook-Tabs aus dem CMS heraus. So werden heute auch die Seiten der Haniel Stiftung und der Haniel Akademie zentral verwaltet.'
 		),
 
 		'features' => array(
