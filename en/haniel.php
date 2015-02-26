@@ -44,7 +44,7 @@ return array(
 
 		'section2' => array(
 			'headline' => 'Versatile',
-			'paragraph' => 'By the many functions of TYPO3, the system can easily host a multi site environment. Today the sites of the Haniel Foundation and Haniel Academy are hosted and managed in one single TYPO3 installation.'
+			'paragraph' => 'By the many functions of TYPO3, the system can easily host a multi site environment. Today the sites of the Haniel Foundation are hosted and managed in one single TYPO3 installation.'
 		),
 
 		'features' => array(
