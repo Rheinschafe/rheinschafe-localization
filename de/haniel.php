@@ -7,7 +7,7 @@ return array(
 	'index' => array(
 		'meta' => array(
 			'title' => 'Haniel',
-			'description' => 'Migration der Website der Investmentholding in Familienbesitz mit Sitz in Duisburg Ruhrort',
+			'description' => 'Migration der Website der Investmentholding in Familienbesitz mit Sitz in Duisburg-Ruhrort',
 			'keywords' => 'TYPO3, SAP, Migration, Duisburg, Haniel',
 		),
 
@@ -15,7 +15,7 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'von SAP zu TYPO3',
-			'headline2' => 'Migration der Website der Investmentholding<br/> in Familienbesitz mit Sitz in Duisburg Ruhrort.',
+			'headline2' => 'Migration der Website der Investmentholding<br/> in Familienbesitz mit Sitz in Duisburg-Ruhrort.',
 			'link1' => 'Projektvorstellung',
 			'link2' => 'Haniel.de'
 		)
@@ -24,7 +24,7 @@ return array(
 	'project' => array(
 		'meta' => array(
 			'title' => 'Projektvorstellung · Haniel',
-			'description' => 'Migration der Website der Investmentholding in Familienbesitz mit Sitz in Duisburg Ruhrort',
+			'description' => 'Migration der Website der Investmentholding in Familienbesitz mit Sitz in Duisburg-Ruhrort',
 			'keywords' => 'TYPO3, SAP, Migration, Duisburg, Haniel',
 		),
 
@@ -44,7 +44,7 @@ return array(
 
 		'section2' => array(
 			'headline' => 'Vielseitig',
-			'paragraph' => 'Die vielseitigen Funktionen des CMS erlauben den Redakteuren des Systems bspw. das Anlegen von weiteren Websites (Multisite) und die Redaktion von Facebook-Tabs aus dem CMS heraus. So werden heute auch die Seiten der Haniel Stiftung und der Haniel Akademie zentral verwaltet.'
+			'paragraph' => 'Die vielseitigen Funktionen des CMS erlauben den Redakteuren des Systems bspw. das Anlegen von weiteren Websites (Multisite) und die Redaktion von Facebook-Tabs aus dem CMS heraus. So werden heute auch die Seiten der Haniel Stiftung zentral verwaltet.'
 		),
 
 		'features' => array(
