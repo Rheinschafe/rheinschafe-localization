@@ -8,14 +8,14 @@ return array(
 
 		'meta' => array(
 			'title' => 'CentrO',
-			'description' => 'Europas größtes Shopping-und Freizeitzentrum',
+			'description' => 'Social Media Kampagnen für Europas größtes Shopping-und Freizeitzentrum',
 			'keywords' => 'Facebook, Apps, Fotowettbewerb, Centro',
 		),
 
 		'label' => 'CentrO',
 
 		'jumbotron' => array(
-			'headline1' => 'Europas größtes Shopping-und Freizeitzentrum',
+			'headline1' => 'Social Media Kampagnen für Europas größtes Shopping-und Freizeitzentrum',
 			'link1' => 'Shopping Prince(ss)',
 			'link2' => 'Fotowettbewerb'
 		)
