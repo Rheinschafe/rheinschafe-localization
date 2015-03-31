@@ -14,8 +14,8 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'Die Rheinschafe',
-			'headline2' => 'Wer wir sind, wie wir sind',
-			'headline3' => 'Faszinierend anders.'
+			'headline2' => 'Wer wir sind, wie wir sind -',
+			'headline3' => 'faszinierend anders.'
 		),
 
 		'content' => array(
@@ -46,8 +46,8 @@ return array(
 		'label' => 'Rheinschafe?',
 
 		'jumbotron' => array(
-			'headline1' => 'Die Rheinschafe',
-			'headline2' => 'Wer wir sind, wie wir sind',
+			'headline1' => 'Rheinschafe?',
+			'headline2' => 'Warum wir heißen, wie wir heißen.',
 			'headline3' => 'Faszinierend anders.'
 		),
 
