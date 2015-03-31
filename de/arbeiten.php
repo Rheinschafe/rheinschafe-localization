@@ -40,7 +40,7 @@ return array(
 
 	'centro' => array(
 		'headline' => 'CentrO',
-		'subline' => 'Europas größtes Shopping-und Freizeitzentrum'
+		'subline' => 'Social Media Kampagnen für Europas größtes Shopping-und Freizeitzentrum'
 	)
 	
 );
