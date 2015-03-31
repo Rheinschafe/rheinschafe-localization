@@ -43,7 +43,7 @@ return array(
 			'keywords' => 'Rheinschafe, Duisburg, Ruhrgebiet, TYPO3, Nutzerfreundlich'
 		),
 
-		'label' => 'Warum Rheinschafe?',
+		'label' => 'Rheinschafe?',
 
 		'jumbotron' => array(
 			'headline1' => 'Die Rheinschafe',

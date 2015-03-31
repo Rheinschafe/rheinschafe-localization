@@ -43,7 +43,7 @@ return array(
 			'keywords' => 'Rheinschafe, Duisburg, Ruhr Area, TYPO3, Usability'
 		),
 
-		'label' => 'Why Rheinschafe?',
+		'label' => 'Rheinschafe?',
 
 		'jumbotron' => array(
 			'headline1' => 'The Rheinschafe',
