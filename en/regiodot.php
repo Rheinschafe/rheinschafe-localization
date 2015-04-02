@@ -2,13 +2,13 @@
 
 return array(
 
-	'back' => 'Zurück zu Arbeiten',
+	'back' => 'Back to cases',
 
 	'index' => array(
 
 		'meta' => array(
 			'title' => 'Regiodot',
-			'description' => 'Eine Region, ein Gefühl: Website und Kampagne für Regiodot',
+			'description' => 'One region, one emotion: Website and camapign for Regiodot',
 			'keywords' => 'Regiodot, Typo3',
 		),
 
@@ -16,65 +16,65 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'Heimat.ruhr',
-			'headline2' => 'Eine Region, ein Gefühl: Website und Kampagne für Regiodot',
+			'headline2' => 'One region, one emotion: Website and campaign for Regiodot',
 			'link1' => 'Dot.ruhr',
-			'link2' => 'Mein Punkt Ruhr',
-			'link3' => 'Zur Webseite'
+			'link2' => 'My Dot Ruhr',
+			'link3' => 'Go to website'
 		)
 	),
 
 	'dotruhr' => array(
 		'meta' => array(
 			'title' => 'Dot.Ruhr · Regiodot',
-			'description' => 'Die weltweit erste Domain-Endung mit regionalem Bezug bringt Persönlichkeit und Individualität in Ihre Website',
-			'keywords' => 'Content Management, Responsive, TLD, Ruhrgebiet'
+			'description' => 'The world's first domain extension with a regional dimension makes your website personal and individual.',
+			'keywords' => 'Content Management, Responsive, TLD, Ruhr Area'
 		),
 
 		'label' => 'Dot.ruhr',
 
 		'jumbotron' => array(
 			'headline1' => 'Dot.Ruhr',
-			'headline2' => 'Responsive Webseite'
+			'headline2' => 'Responsive Website'
 		),
 
 		'content' => array(
-			'headline' => 'Individuell',
-			'paragraph' => 'Die weltweit erste Domain-Endung mit regionalem Bezug bringt Persönlichkeit und Individualität in Ihre Website. Ein klares Bekenntnis zum Ruhrgebiet und zur Identifikation mit dem Pott - das ist .ruhr! Seit 2014 ist die responsive Website die erste Anlaufstelle für Informationen rund um die neue Domain.'
+			'headline' => 'Individual',
+			'paragraph' => 'The world's first domain extension with a regional dimension makes your website personal and individual. A clear commitment to the Ruhr Area and to an identification with the "Pott" - that is .ruhr! Since 2014, the responsive Websiteis the first point of contact regarding all information about the new domain.'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'Responsive Umsetzung',
-			'item2' => 'Erste TLD mir regionalem Bezug',
-			'item3' => 'Content-Management mit TYPO3'
+			'headline' => 'Features',
+			'item1' => 'Responsive design',
+			'item2' => 'First TLD with a regional dimension',
+			'item3' => 'Content Management with TYPO3'
 		)
 	),
 
 	'meinpunktruhr' => array(
 		'meta' => array(
 			'title' => 'Mein Punkt Ruhr · Regiodot',
-			'description' => 'Zeig uns deinen Punkt im Revier',
-			'keywords' => 'Facebook, Apps, Gewinnspiel, Social Media, Mein Punkt Ruhr',
+			'description' => 'Show us your spot in the coal-mining district',
+			'keywords' => 'Facebook, Apps, contest, Social Media, Mein Punkt Ruhr',
 		),
 
 		'label' => 'Mein Punkt Ruhr',
 
 		'jumbotron' => array(
 			'headline1' => 'Mein Punkt Ruhr',
-			'headline2' => '„Zeig uns deinen Punkt im Revier“',
-			'headline3' => 'Fotowettbewerb'
+			'headline2' => '„Show us your spot in the coal-mining district“',
+			'headline3' => 'Photo contest'
 		),
 
 		'content' => array(
-			'headline' => 'So schön kann‘s im Ruhrgebiet sein',
-			'paragraph' => 'Über 300 Teilnehmer präsentierten beim Fotowettbewerb „mein Punkt Ruhr“ ihre ganz persönlichen Ruhrpott Highlights. Zu gewinnen gab es unter anderem ein Kiosk-Abo, ein Pommesbuden-Abo oder ein Eisdielen-Abo. Nicht nur die gelungenen Fotos laden zum Besuch der mein Punkt Ruhr Seite ein, sodern auch das benutzerfreundliche One-Page-Design - eine reine responsive Umsetzung!'
+			'headline' => 'The Ruhr Area can be that beautiful',
+			'paragraph' => 'More than 300 participants presented their favourite spot in the Ruhr Area - „mein Punkt Ruhr“. Among the prizes were vocuhers for the typical Ruhr Area kiosks, chip shops and ice-cream parlours. Not only the fine photographs are well worth a visit of the website, but also the user-friendly one page design - a strictly responsive implementation!'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'über 300 Teilnehmer',
-			'item2' => 'responsive Umsetzung',
-			'item3' => 'knapp 250 Bilder'
+			'headline' => 'Features',
+			'item1' => 'more than 300 participants',
+			'item2' => 'responsive design',
+			'item3' => 'about 250 pictures'
 		)
 	)
 
