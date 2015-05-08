@@ -26,7 +26,7 @@ return array(
 	'dotruhr' => array(
 		'meta' => array(
 			'title' => 'Dot.Ruhr · Regiodot',
-			'description' => 'The world's first domain extension with a regional dimension makes your website personal and individual.',
+			'description' => 'The world\'s first domain extension with a regional dimension makes your website personal and individual.',
 			'keywords' => 'Content Management, Responsive, TLD, Ruhr Area'
 		),
 
@@ -39,7 +39,7 @@ return array(
 
 		'content' => array(
 			'headline' => 'Individual',
-			'paragraph' => 'The world's first domain extension with a regional dimension makes your website personal and individual. A clear commitment to the Ruhr Area and to an identification with the "Pott" - that is .ruhr! Since 2014, the responsive Websiteis the first point of contact regarding all information about the new domain.'
+			'paragraph' => 'The world\'s first domain extension with a regional dimension makes your website personal and individual. A clear commitment to the Ruhr Area and to an identification with the "Pott" - that is .ruhr! Since 2014, the responsive Websiteis the first point of contact regarding all information about the new domain.'
 		),
 
 		'features' => array(

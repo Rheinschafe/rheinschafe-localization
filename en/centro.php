@@ -8,14 +8,14 @@ return array(
 
 		'meta' => array(
 			'title' => 'CentrO',
-			'description' => 'Europe's biggest shopping- and leisure centre',
+			'description' => 'Europe\'s biggest shopping- and leisure centre',
 			'keywords' => 'Facebook, Apps, photo contest, Centro',
 		),
 
 		'label' => 'CentrO',
 
 		'jumbotron' => array(
-			'headline1' => 'Europe's biggest shopping- and leisure centre,
+			'headline1' => 'Europe\'s biggest shopping- and leisure centre',
 			'link1' => 'Shopping Prince(ss)',
 			'link2' => 'Photo contest'
 		)
@@ -38,7 +38,7 @@ return array(
 
 		'content' => array(
 			'headline' => 'Contest',
-			'paragraph' => 'The CentrO gave their visitors the opportunity to take a picture with the famous stylist and designer Thomas Rath. The designer wasn't there in person, but was added to the photo by means of a green screen. Still, those who got voted among the best six did not only win a shopping voucher valued at 750€, but also got the chance to meet the designer in the final. Thomas Rath himself selected the winner, who won a trip to the Fashionweek in Berlin.'
+			'paragraph' => 'The CentrO gave their visitors the opportunity to take a picture with the famous stylist and designer Thomas Rath. The designer wasn\'t there in person, but was added to the photo by means of a green screen. Still, those who got voted among the best six did not only win a shopping voucher valued at 750€, but also got the chance to meet the designer in the final. Thomas Rath himself selected the winner, who won a trip to the Fashionweek in Berlin.'
 		),
 
 		'features' => array(
@@ -67,7 +67,7 @@ return array(
 		),
 
 		'content' => array(
-			'paragraph1' => 'The CentrO Oberhausen presented fashion highlights from the past five decades in a photo contest during the "Generation Fashion" event. The 35 best submissions could not only be admired online, but also live in the CentrO mall. The contest's first prize - a trip to New York.'
+			'paragraph1' => 'The CentrO Oberhausen presented fashion highlights from the past five decades in a photo contest during the "Generation Fashion" event. The 35 best submissions could not only be admired online, but also live in the CentrO mall. The contest\'s first prize - a trip to New York.'
 		)
 	)
 

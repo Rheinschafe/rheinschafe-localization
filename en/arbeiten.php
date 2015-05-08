@@ -35,12 +35,12 @@ return array(
 
 	'regiodot' => array(
 		'headline' => 'Regiodot',
-		'subline' => 'Eine Region, ein Gefühl: Website und Kampagne für Regiodot'
+		'subline' => 'One region, one emotion: Website and camapign for Regiodot'
 	),
 
 	'centro' => array(
 		'headline' => 'CentrO',
-		'subline' => 'Europas größtes Shopping-und Freizeitzentrum'
+		'subline' => 'Europe\'s biggest shopping- and leisure centre'
 	)
 
 );
