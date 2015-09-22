@@ -1,9 +1,9 @@
-<?php 
+<?php
 
 return array(
-	
+
 	'lang' => 'en',
-	
+
 	'navigation' => array(
 		'startseite' => 'Home',
 		'arbeiten' => 'Cases',
@@ -11,7 +11,13 @@ return array(
 		'rheinschafe' => 'Rheinschafe',
 		'kontakt' => 'Contact',
 		'technologie' => 'Technology',
-		'blog' => 'Blog'
+		'blog' => 'Blog',
+		'weidenpost' => array(
+			'headline' => 'Weidenpost',
+			'paragraph' => 'Subscribe to Weidenpost and stay up to date.',
+			'placeholder' => 'Enter E-Mail',
+			'button' => 'Subscribe'
+		)
 	),
 
 	'newsletter' => array(

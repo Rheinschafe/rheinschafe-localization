@@ -1,7 +1,7 @@
-<?php 
+<?php
 
 return array(
-	
+
 	'lang' => 'de',
 
 	'navigation' => array(
@@ -11,7 +11,13 @@ return array(
 		'rheinschafe' => 'Rheinschafe',
 		'kontakt' => 'Kontakt',
 		'technologie' => 'Technologie',
-		'blog' => 'Blog'
+		'blog' => 'Blog',
+		'weidenpost' => array(
+			'headline' => 'Weidenpost',
+			'paragraph' => 'Die Weidenpost abonnieren und immer schaf informiert bleiben.',
+			'placeholder' => 'E-Mail-Adresse eintragen',
+			'button' => 'Abonnieren'
+		)
 	),
 
 	'newsletter' => array(
