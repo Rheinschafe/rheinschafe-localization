@@ -15,7 +15,7 @@ return array(
 		'weidenpost' => array(
 			'headline' => 'Weidenpost',
 			'paragraph' => 'Subscribe to Weidenpost and stay up to date.',
-			'placeholder' => 'Enter E-Mail',
+			'placeholder' => 'Enter Email',
 			'button' => 'Subscribe'
 		)
 	),
