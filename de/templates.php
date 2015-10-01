@@ -60,7 +60,8 @@ return array(
 		'mediadesigner_fem' => 'Mediengestalterin',
 		'webdeveloper' => 'Web-Entwickler',
 		'projectassistance' => 'Projekt-Assistenz',
-		'juniorprojectmanager' => 'Junior Projektleiter'
+		'juniorprojectmanager' => 'Junior Projektleiter',
+		'marketing_fem' => 'Marketingkauffrau'
 	)
 
 );
