@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 return array(
 
@@ -13,9 +13,9 @@ return array(
 		'subline' => 'Migration of HANIEL&acute;s website.'
 	),
 
-	'epson' => array(
-		'headline' => 'Facebook App',
-		'subline' => 'Sending interactive EPSON greeting cards to friends via Facebook.'
+	'skoda' => array(
+		'headline' => 'Online Magazine extratouch',
+		'subline' => 'Das Online-Magazin extratouch von SKODA AUTO Deutschland'
 	),
 
 	'krohne' => array(
@@ -23,9 +23,9 @@ return array(
 		'subline' => 'In 13 languages, on more than 100 country sites.'
 	),
 
-	'sky' => array(
-		'headline' => 'Facebook Apps',
-		'subline' => 'Apps to involve and activate the Facebook community'
+	'epson' => array(
+		'headline' => 'Facebook App',
+		'subline' => 'Sending interactive EPSON greeting cards to friends via Facebook.'
 	),
 
 	'skysporthd' => array(
@@ -33,14 +33,29 @@ return array(
 		'subline' => 'Apps to involve and activate the channel’s community'
 	),
 
-	'regiodot' => array(
-		'headline' => 'Regiodot',
-		'subline' => 'One region, one emotion: Website and camapign for Regiodot'
+	'unternehmerverband' => array(
+		'headline' => 'Einfach gut.',
+		'subline' => 'Unternehmerverband und Haus der Unternehmer in TYPO3'
 	),
 
-	'centro' => array(
-		'headline' => 'CentrO',
-		'subline' => 'Europe\'s biggest shopping- and leisure centre'
+	'gfwduisburg' => array(
+		'headline' => 'GFW Duisburg',
+		'subline' => 'Der digitale Heimathafen für die Wirtschaftsförderung Duisburg'
+	),
+
+	'supermagnetic' => array(
+		'headline' => 'Supermagnetic',
+		'subline' => 'Backend + API für Social Media Walls'
+	),
+
+	//'regiodot' => array(
+	//	'headline' => 'Regiodot',
+	//	'subline' => 'One region, one emotion: Website and camapign for Regiodot'
+	//),
+
+	'shepherd' => array(
+		'headline' => 'SHEPHERD',
+		'subline' => 'Keep your flock together'
 	)
 
 );

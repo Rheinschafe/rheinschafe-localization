@@ -1,7 +1,7 @@
 <?php 
 
 return array(
-	
+
 	'meta' => array(
 		'title' => 'TYPO3, Web Development & Web Design from Duisburg am Rhein',
 		'description' => 'Rheinschafe GmbH from Duisburg offers services in all areas of the creative and engineering fields in the digital area. With core qualifications in Content Management Systems e.g. TYPO3 and individual App engineering.',

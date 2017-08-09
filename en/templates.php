@@ -56,9 +56,11 @@ return array(
 	'flock' => array(
 		'manager' => 'CEO',
 		'headofdesign' => 'Art Director',
+		'projectmanager' => 'Project Manager',
 		'mediadesigner' => 'Media Designer',
 		'mediadesigner_fem' => 'Media Designer',
 		'webdeveloper' => 'Web Engineer',
+		'webdeveloper-fem' => 'Web Engineer',
 		'projectassistance' => 'Project Assistance',
 		'juniorprojectmanager' => 'Junior Project Manager',
 		'apprenticef' => 'Apprentice',
