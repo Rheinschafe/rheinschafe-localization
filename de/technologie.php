@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 return array(
 
@@ -118,7 +118,7 @@ return array(
 	'apps' => array(
 		'meta' => array(
 			'title' => 'App-Entwicklung, Facebook-, Smartphone- oder Web-Apps',
-			'description' => 'Individual-software, Facebook-, Smartphone- oder Web-Apps',
+			'description' => 'Individual-Software und Web-Apps',
 			'keywords' => 'App-Entwicklung, Facebook, Mobile, Duisburg, Ruhrgebiet, NRW',
 		),
 
@@ -127,7 +127,7 @@ return array(
 		'jumbotron' => array(
 			'headline1' => 'App-Entwicklung',
 			'headline2' => 'Applikationen oder Anwendungen, einfach: Apps.',
-			'headline3' => 'Individual-software, Facebook-, Smartphone- oder Web-Apps',
+			'headline3' => 'Individual-Software und Web-Apps',
 		),
 
 		'section1' => array(

@@ -55,10 +55,12 @@ return array(
 
 	'flock' => array(
 		'manager' => 'Herdenleitung',
+		'projectmanager' => 'Projektleiter',
 		'headofdesign' => 'Künstlerischer Leiter',
 		'mediadesigner' => 'Mediengestalter',
 		'mediadesigner_fem' => 'Mediengestalterin',
 		'webdeveloper' => 'Web-Entwickler',
+		'webdeveloper-fem' => 'Web-Entwicklerin',
 		'projectassistance' => 'Projekt-Assistenz',
 		'juniorprojectmanager' => 'Junior Projektleiter',
 		'marketing_fem' => 'Marketingkauffrau'

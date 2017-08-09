@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 return array(
 
@@ -20,9 +20,9 @@ return array(
 
 		'content' => array(
 			'headline' => 'Der Über uns Teil',
-			'paragraph1' => 'Seit März 2009 weiden wir Rheinschafe in der deutschen Kommunikations- und Medienlandschaft. Wir sind spezialisiert auf Lösungen im digitalen Raum mit Fokus auf eine nutzerfreundliche und technisch wertige Umsetzung.',
+			'paragraph1' => 'Seit März 2009 weiden wir Rheinschafe in der deutschen Kommunikations- und Medienlandschaft. Wir sind spezialisiert auf Lösungen im digitalen Raum mit Fokus auf eine nutzerfreundliche und technisch hochwertige Umsetzung.',
 			'paragraph2' => 'Kai Lehmkühler und André Wartmann gründeten unsere Agentur mit dem einprägsamen Namen, um unseren Kunden das digitale Leben ein wenig angenehmer und schöner zu machen.',
-			'paragraph3' => 'Die Herde ist seitdem auf 14 Schafe angewachsen -<br/>ein Dank an unsere Kunden und ihr Vertrauen!'
+			'paragraph3' => 'Die Herde ist seitdem auf 20 Schafe angewachsen -<br/>ein Dank an unsere Kunden und ihr Vertrauen!'
 		),
 
 		'jobs' => array(
@@ -32,7 +32,8 @@ return array(
 			'item3' => 'Anwendungs-Entwickler',
 			'item4' => 'Ausbildung Fachinformatiker/in',
 			'item5' => 'Ausbildung Mediengestalter/in',
-			'item6' => 'Jetzt bewerben',
+			'item6' => 'Ausbildung Marketingkommunikation',
+			'item7' => 'Jetzt bewerben',
 		)
 	),
 
@@ -127,7 +128,7 @@ return array(
 				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen TYPO3-Entwickler. Der Aufbau und die Weiterentwicklung leistungsstarker Content-Management-Systeme in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Erfahrung in der Entwicklung von Internet-Anwendungen', 
+					'item1' => 'Erfahrung in der Entwicklung von Internet-Anwendungen',
 					'item2' => 'Stärken in der Entwicklung mit PHP & MySQL',
 					'item3' => 'Erste Erfahrung mit Content-Management-Systemen wie TYPO3',
 					'item4' => 'Erste Erfahrungen mit Frameworks wie Zend, CodeIgniter, Symfony oder CakePHP',
@@ -138,10 +139,10 @@ return array(
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'StartUp-Atmosphäre', 
-					'item2' => 'Eine sympathische Herde', 
-					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld', 
-					'item4' => 'Aus- und Weiterbildungsangebote', 
+					'item1' => 'StartUp-Atmosphäre',
+					'item2' => 'Eine sympathische Herde',
+					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld',
+					'item4' => 'Aus- und Weiterbildungsangebote',
 					'item5' => 'Teilnahme an Conventions, BarCamps, etc.'
 				),
 				'paragraph2' => 'Wenn Du über eine gute Auffassungsgabe verfügst, Dich leicht in einer angenehmen Arbeitsatmosphäre akklimatisierst und Dich bei uns weiterentwickeln möchtest, freuen wir uns auf Deine aussagekräftige Bewerbung!',
@@ -153,7 +154,7 @@ return array(
 				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Webentwickler. Die Entwicklung und Pflege technisch anspruchsvoller Online-Projekte in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Erfahrung in der Entwicklung von modernen Web-Frontends', 
+					'item1' => 'Erfahrung in der Entwicklung von modernen Web-Frontends',
 					'item2' => 'Stärken in der Entwicklung mit JavaScript & HTML5',
 					'item3' => 'Erfahrung mit Responsive und Mobile First Projekten',
 					'item4' => 'Zuverlässigkeit und Engagement',
@@ -162,10 +163,10 @@ return array(
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'StartUp-Atmosphäre', 
-					'item2' => 'Eine sympathische Herde', 
-					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld', 
-					'item4' => 'Aus- und Weiterbildungsangebote', 
+					'item1' => 'StartUp-Atmosphäre',
+					'item2' => 'Eine sympathische Herde',
+					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld',
+					'item4' => 'Aus- und Weiterbildungsangebote',
 					'item5' => 'Teilnahme an Conventions, BarCamps, etc.'
 				),
 				'paragraph2' => 'Wenn Du über eine gute Auffassungsgabe verfügst, Dich leicht in einer angenehmen Arbeitsatmosphäre akklimatisierst und Dich bei uns weiterentwickeln möchtest, freuen wir uns auf Deine aussagekräftige Bewerbung!',
@@ -177,7 +178,7 @@ return array(
 				'paragraph1' => 'Zur Verstärkung der Herde suchen wir einen neuen Anwendungs-Entwickler. Die Entwicklung und Pflege technisch anspruchsvoller Web-Anwendungen in der Herde der Rheinschafe werden Deine Aufgabe sein.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Erfahrung in der Entwicklung von Web-Anwendungen', 
+					'item1' => 'Erfahrung in der Entwicklung von Web-Anwendungen',
 					'item2' => 'Stärken in der Entwicklung mit PHP & MySQL',
 					'item3' => 'Erfahrungen mit Serverside-JS, Node und Backbone',
 					'item4' => 'Erfahrungen mit PHP-Frameworks wie Laravel oder CakePHP',
@@ -187,10 +188,10 @@ return array(
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'StartUp-Atmosphäre', 
-					'item2' => 'Eine sympathische Herde', 
-					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld', 
-					'item4' => 'Aus- und Weiterbildungsangebote', 
+					'item1' => 'StartUp-Atmosphäre',
+					'item2' => 'Eine sympathische Herde',
+					'item3' => 'Ein spannendes und herausforderndes Arbeitsumfeld',
+					'item4' => 'Aus- und Weiterbildungsangebote',
 					'item5' => 'Teilnahme an Conventions, BarCamps, etc.'
 				),
 				'paragraph2' => 'Wenn Du über eine gute Auffassungsgabe verfügst, Dich leicht in einer angenehmen Arbeitsatmosphäre akklimatisierst und Dich bei uns weiterentwickeln möchtest, freuen wir uns auf Deine aussagekräftige Bewerbung!',
@@ -204,7 +205,7 @@ return array(
 				'paragraph3' => 'In interessanten Kundenprojekten lernst Du praxisnah dein Handwerk und entfaltest dein kreatives Potenzial.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Einsatzbereitschaft und Flexibilität', 
+					'item1' => 'Einsatzbereitschaft und Flexibilität',
 					'item2' => 'ausgeprägte Team- und Kommunikationsfähigkeit',
 					'item3' => 'abgeschlossene Schulausbildung',
 					'item4' => 'gute Noten in: Deutsch, Mathematik und Englisch',
@@ -213,7 +214,7 @@ return array(
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'ein sympathisches Team', 
+					'item1' => 'ein sympathisches Team',
 					'item2' => 'eine interessante Ausbildung',
 					'item3' => 'ein abwechslungsreiches Arbeitsumfeld',
 					'item4' => 'interessante Projekte für namhafte Kunden',
@@ -229,7 +230,7 @@ return array(
 				'paragraph3' => 'In interessanten Kundenprojekten lernst Du praxisnah dein Handwerk und entfaltest dein kreatives Potenzial.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Einsatzbereitschaft und Flexibilität', 
+					'item1' => 'Einsatzbereitschaft und Flexibilität',
 					'item2' => 'ausgeprägte Team- und Kommunikationsfähigkeit',
 					'item3' => 'abgeschlossene Schulausbildung',
 					'item4' => 'gute Noten in: Deutsch, Mathematik, Englisch und Kunst',
@@ -239,7 +240,7 @@ return array(
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'ein sympathisches Team', 
+					'item1' => 'ein sympathisches Team',
 					'item2' => 'eine interessante Ausbildung',
 					'item3' => 'ein abwechslungsreiches Arbeitsumfeld',
 					'item4' => 'interessante Projekte für namhafte Kunden',
@@ -255,7 +256,7 @@ return array(
 				'paragraph3' => 'In interessanten Kundenprojekten lernst Du praxisnah dein Handwerk und entfaltest dein kreatives Potenzial.',
 				'expectations' => array(
 					'headline' => 'Das erwarten wir',
-					'item1' => 'Einsatzbereitschaft und Flexibilität', 
+					'item1' => 'Einsatzbereitschaft und Flexibilität',
 					'item2' => 'ausgeprägte Team- und Kommunikationsfähigkeit',
 					'item3' => 'abgeschlossene Schulausbildung',
 					'item4' => 'gute Noten in: Deutsch, Mathematik und Englisch',
@@ -266,7 +267,7 @@ return array(
 				),
 				'offers' => array(
 					'headline' => 'Das bieten wir',
-					'item1' => 'ein sympathisches Team', 
+					'item1' => 'ein sympathisches Team',
 					'item2' => 'eine interessante Ausbildung',
 					'item3' => 'ein abwechslungsreiches Arbeitsumfeld',
 					'item4' => 'interessante Projekte für namhafte Kunden',
@@ -301,7 +302,7 @@ return array(
 				'paragraph3' => 'Bitte sende Deine Bewerbung per E-Mail an:',
 				'paragraph4' => 'Die Rheinschafe befinden sich in Aufbruchstimmung und uns erreicht täglich eine Vielzahl an Bewerbungen. Wir prüfen jede einzelne und wenn uns gefällt, was wir wahrnehmen, werden wir uns bei Dir melden. Bitte hab Verständnis, dass bis dahin manchmal etwas Zeit ins Land geht. Solltest Du es zu irgendeinem Zeitpunkt bis zu einer Rückmeldung gar nicht mehr aushalten, rufe Dich einfach nochmal in Erinnerung. Am besten per E-Mail.',
 				'paragraph5' => 'Und wer weiß, vielleicht sehen wir Dich bald auf unserer Weide!',
-				
+
 			),
 		)
 	)
