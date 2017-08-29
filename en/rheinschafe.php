@@ -32,7 +32,7 @@ return array(
 			'item3' => 'Application Developer',
 			'item4' => 'Web Developer',
 			'item5' => 'Media designer',
-			'item6' => 'Merchant',
+			'item6' => 'Marketing',
 			'item7' => 'Apply now'
 		)
 	),
