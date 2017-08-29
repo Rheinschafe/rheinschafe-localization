@@ -22,7 +22,7 @@ return array(
 			'headline' => 'The about us part',
 			'paragraph1' => 'We are grazing in the German communications and media landscape since 2009 and are specialized in providing solutions in the digital areas with a focus on usability and high standards in technology.',
 			'paragraph2' => 'Kai Lehmkühler and André Wartmann founded our agency with the catchy name, to make our customers\' digital life a little more comfortable and much more beautiful.',
-			'paragraph3' => 'The herd has since grown to 14 sheep - a thank you to our customers and their trust in us!'
+			'paragraph3' => 'The herd has since grown to 20 sheep - a thank you to our customers and their trust in us!'
 		),
 
 		'jobs' => array(
@@ -32,7 +32,8 @@ return array(
 			'item3' => 'Application Developer',
 			'item4' => 'Web Developer',
 			'item5' => 'Media designer',
-			'item6' => 'Apply now',
+			'item6' => 'Merchant',
+			'item7' => 'Apply now'
 		)
 	),
 
