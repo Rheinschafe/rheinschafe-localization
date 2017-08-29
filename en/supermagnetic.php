@@ -8,7 +8,7 @@ return array(
 
 		'meta' => array(
 			'title' => 'Supermagnetic.io',
-			'description' => 'Der Supermagnet für Ihre und dieSocial Media Inhalte Ihrer Kunden.',
+			'description' => 'The super magnet for your social media contents.',
 			'keywords' => 'Supermagnetic.io, Social Wall, Newsroom, Social Web Backend and API'
 		),
 
@@ -16,17 +16,17 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'Supermagnetic',
-			'headline2' => 'Social Media Inhalte aggregieren und flexibel wieder ausspielen.',
-			'link1' => 'Die Anwendung',
+			'headline2' => 'Aggregate Social Media Contents and generate a flexible output.',
+			'link1' => 'The App',
 			'link2' => 'Backend + API',
-			'link3' => 'zur Anwendung'
+			'link3' => 'visit App'
 		)
 	),
 
 	'supermagnet' => array(
 		'meta' => array(
 			'title' => 'Supermagnetic.io',
-			'description' => 'Der Supermagnet für Ihre und dieSocial Media Inhalte Ihrer Kunden.',
+			'description' => 'The super magnet for your social media contents.',
 			'keywords' => 'Supermagnetic.io, Social Wall, Newsroom, Social Web Backend and API'
 		),
 
@@ -34,19 +34,19 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'Supermagnetic.io',
-			'headline2' => 'Der Supermagnet für Agenturen,<br> Brands und Entwickler',
-			'link1' => 'Zur Anwendung'
+			'headline2' => 'The super magnet for agencies, brands and developers.',
+			'link1' => 'visit App'
 		),
 
 		'content' => array(
-			'headline' => 'Sofort einsetzbar',
-			'paragraph1' => 'Integrieren Sie Inhalte aus Ihren Social Media Kanälen in Ihre Website, Ihr Intranet oder Ihren Social Media Newsroom und profitieren Sie von einem intuitiven User-Interface.',
-			'paragraph2' => 'Wir kümmern uns um die Aggregation und Sie um die Magie.'
+			'headline' => 'Ready to use',
+			'paragraph1' => 'Integrate contents from your Social Media Channels into your website, your intranet or your Social Media Newsroom and make use of an intuitive User-Interface.',
+			'paragraph2' => 'We take care of the work, you do the magic.'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'sofort einsetzbar',
+			'headline' => 'Features',
+			'item1' => 'Ready to use',
 			'item2' => 'Instagram Permission',
 			'item3' => 'Responsive UI',
 			'item4' => 'API'
@@ -56,7 +56,7 @@ return array(
 	'backend+api' => array(
 		'meta' => array(
 			'title' => 'Supermagnetic.io',
-			'description' => 'Der Supermagnet für Ihre und dieSocial Media Inhalte Ihrer Kunden.',
+			'description' => 'The super magnet for your social media contents.',
 			'keywords' => 'Supermagnetic.io, Social Wall, Newsroom, Social Web Backend and API'
 		),
 
@@ -64,24 +64,24 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'Supermagnetic.io',
-			'headline2' => 'Backend + API<br>für Ihre Social Wall',
-			'link1' => 'zur Anwendung'
+			'headline2' => 'Backend + API<br>for your Social Wall',
+			'link1' => 'visit App'
 		),
 
 		'content' => array(
-			'headline1' => 'Volle Kontrolle',
-			'headline2' => 'Quellen & Features',
-			'headline3' => 'Die API',
-			'headline4' => 'Das Backend',
-			'paragraph1' => 'Ihre Feeds lassen sich nach Quellen und Sichtbarkeit filtern. Zusätzlich können Sie durch ausgewählte Postings ergänzt werden.',
-			'paragraph2' => 'Bereichern Sie Ihre Feeds durch vielfältige Inhalte aus den bekanntesten Social Media Plattformen.',
-			'paragraph3' => 'Entwickeln Sie Ihre eigene Frontend-Ausgabe auf Basis der mächtigen API von Supermagnetic.',
-			'paragraph4' => 'Postings verbergen oder freigeben – Sie haben die Wahl. Kuratieren Sie die eingehenden Inhalte oder lassen Sie den Feeds ihren freien Lauf.'
+			'headline1' => 'Complete Control',
+			'headline2' => 'Sources & Features',
+			'headline3' => 'The API',
+			'headline4' => 'The Backend',
+			'paragraph1' => 'Filter your feeds by sources and visibility and add unique content manually.',
+			'paragraph2' => 'Enrich your feeds by contents from the most frequented and important social media networks.',
+			'paragraph3' => 'Develop your own frontend rendering, based on the mighty Supermagnetic.io API.',
+			'paragraph4' => 'Hide or release contents – you are in control. Curate incoming contents or let the feeds grow freely.'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'sofort einsetzbar',
+			'headline' => 'Features',
+			'item1' => 'ready to use',
 			'item2' => 'Instagram Permission',
 			'item3' => 'Responsive UI',
 			'item4' => 'API'
