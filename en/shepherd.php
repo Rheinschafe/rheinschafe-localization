@@ -17,7 +17,7 @@ return array(
 		'jumbotron' => array(
 			'headline1' => 'SHEPHERD',
 			'headline2' => 'Beautiful and reasonable<br>Project Management<br>at your fingertips.',
-			'link1' => 'Projektvorstellung',
+			'link1' => 'The Project',
 			'link2' => 'SHEPHERD.PM'
 		)
 	),
@@ -29,7 +29,7 @@ return array(
 			'keywords' => 'SHEPHERD, Project Management, SAAS'
 		),
 
-		'label' => 'Projektvorstellung',
+		'label' => 'The Project',
 
 		'jumbotron' => array(
 			'headline1' => 'SHEPHERD',
@@ -39,15 +39,7 @@ return array(
 
 		'content' => array(
 			'headline' => 'SHEPHERD',
-			'paragraph' => 'Prototyp für Projekt-Management in seiner schönsten Form. '
-		),
-
-		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'sofort einsetzbar',
-			'item2' => 'Instagram Permission',
-			'item3' => 'Responsive UI',
-			'item4' => 'API'
+			'paragraph' => 'Prototype for Project Management in its most beautifuly way. '
 		)
 	)
 
