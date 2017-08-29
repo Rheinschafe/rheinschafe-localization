@@ -8,16 +8,16 @@ return array(
 
 		'meta' => array(
 			'title' => 'GFW Duisburg',
-			'description' => 'Der digitale Heimathafen für die Wirtschaftsförderung Duisburg.',
-			'keywords' => 'GFW Duisburg, Wirtschaftsförderung Duisburg, Relaunch',
+			'description' => 'The digital home port for the official business promoter of Duisburg.',
+			'keywords' => 'GFW Duisburg, business promotion Duisburg, Relaunch',
 		),
 
-		'label' => 'Das Projekt',
+		'label' => 'The Project',
 
 		'jumbotron' => array(
 			'headline1' => 'GFW Duisburg',
-			'headline2' => 'Der digitale Heimathafen<br> für die Wirtschaftsförderung Duisburg.',
-			'link1' => 'Projektvorstellung',
+			'headline2' => 'The digital home port for the official business promoter of Duisburg.',
+			'link1' => 'Cas Study',
 			'link2' => 'GIMDU',
 			'link3' => 'Tectrum'
 		)
@@ -26,55 +26,55 @@ return array(
 	'gfwduisburg' => array(
 		'meta' => array(
 			'title' => 'GFW Duisburg',
-			'description' => 'Die neue Website für den Unternehmerverband auf Basis von TYPO3.',
-			'keywords' => 'Unternehmerverband, Website, TYPO3'
+			'description' => 'The digital home port for the official business promoter of Duisburg.',
+			'keywords' => 'GFW Duisburg, business promotion Duisburg, Relaunch',
 		),
 
 		'label' => 'GFW Duisburg',
 
 		'jumbotron' => array(
 			'headline1' => 'GFW-Duisburg.de',
-			'headline2' => 'der digitale Heimathafen für die<br> Wirtschaftsförderung Duisburg.',
+			'headline2' => 'The digital home port for the <br> official business promoter of Duisburg.',
 			'link1' => 'Zur Website'
 		),
 
 		'content' => array(
-			'headline' => 'Für die Wirtschaft. Für Duisburg.',
-			'paragraph1' => 'Duisburg präsentiert sich auf der neuen Website der GFW Duisburg nicht nur als Wirtschaftsstandort, sondern zeigt mit einer Vielfalt an eindrucksvollen Landmarken auch den Wandel und die schönen Seiten dieser Stadt.',
-			'paragraph2' => 'Das TYPO3-System der GFW Duisburg beherbergt neben der Website der Wirtschaftsförderung auch die Seiten der Duisburger Gewerbe Immobilien Messe – GIMDU – und die Website des Duisburger Technologiezentrums – kurz Tectrum.'
+			'headline' => 'For business. For Duisburg.',
+			'paragraph1' => 'The new website of the GFW does not only represent the business side of Duisburg, but also show cases various of its unique landmarks which are documenting the change and particular beauty of this city.',
+			'paragraph2' => 'The new TYPO3-System hosts three different websites. Beneath the Website of the GFW it also serves the websites of GIMDU - a business property conference - and the Duisburg Technology Center.'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'Landmarken-Konzept',
-			'item2' => 'responsive Umsetzung',
+			'headline' => 'Features',
+			'item1' => 'Landmarks',
+			'item2' => 'Fully Responsive',
 			'item3' => 'TYPO3 Multi-Site'
 		)
 	),
 
 	'gimdu' => array(
 		'meta' => array(
-			'title' => 'Haus der Unternehmer',
-			'description' => 'Die neue Website für das Haus der Unternehmer in Duisburg.',
-			'keywords' => 'Haus der Unternehmer, Duisburg, TYPO3'
+			'title' => 'GIMDU',
+			'description' => 'Website for the business property conference GIMDU.',
+			'keywords' => 'GIMDU, Duisburg, TYPO3'
 		),
 
 		'label' => 'GIMDU',
 
 		'jumbotron' => array(
 			'headline1' => 'GIMDU',
-			'headline2' => 'Microsite innerhalb des CMS',
-			'link1' => 'zur Microsite'
+			'headline2' => 'Microsite inside the main CMS',
+			'link1' => 'visit Microsite'
 		),
 
 		'content' => array(
-			'headline' => 'Ganz DU. GIMDU.',
-			'paragraph' => 'Die 2016 durch die GFW ins Leben gerufene Gewerbe Immobilienmesse Duisburg hat nach ihrer erfolgreichen Prämiere im vergangenen Jahr, 2017 einen eigenen Internetauftritt im CMS der Wirtschaftsförderung erhalten.'
+			'headline' => 'All pink. GIMDU.',
+			'paragraph' => 'In 2016 GFW created the business property conference GIMDU. After its successful premiere it received its own website in 2017.'
 		),
 
 		'features' => array(
-			'headline' => 'Besonderheiten',
-			'item1' => 'responsive Umsetzung',
+			'headline' => 'Features',
+			'item1' => 'Fully Responsive',
 			'item2' => 'skalierbar',
 			'item3' => 'Multi-Site'
 		)
