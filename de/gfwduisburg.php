@@ -26,8 +26,8 @@ return array(
 	'gfwduisburg' => array(
 		'meta' => array(
 			'title' => 'GFW Duisburg',
-			'description' => 'Die neue Website für den Unternehmerverband auf Basis von TYPO3.',
-			'keywords' => 'Unternehmerverband, Website, TYPO3'
+			'description' => 'Der digitale Heimathafen für die Wirtschaftsförderung Duisburg.',
+			'keywords' => 'GFW Duisburg, Wirtschaftsförderung Duisburg, Relaunch',
 		),
 
 		'label' => 'GFW Duisburg',
@@ -54,9 +54,9 @@ return array(
 
 	'gimdu' => array(
 		'meta' => array(
-			'title' => 'Haus der Unternehmer',
-			'description' => 'Die neue Website für das Haus der Unternehmer in Duisburg.',
-			'keywords' => 'Haus der Unternehmer, Duisburg, TYPO3'
+			'title' => 'GIMDU',
+			'description' => 'Die Gewerbeimmobilienmesse Duisburg.',
+			'keywords' => 'GIMDU, Immobilienmesse, Duisburg, TYPO3'
 		),
 
 		'label' => 'GIMDU',
