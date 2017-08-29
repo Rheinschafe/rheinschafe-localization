@@ -16,7 +16,7 @@ return array(
 
 		'jumbotron' => array(
 			'headline1' => 'GFW Duisburg',
-			'headline2' => 'The digital home port for the official business promoter of Duisburg.',
+			'headline2' => 'The digital home port for the official<br>business promoter of Duisburg.',
 			'link1' => 'Cas Study',
 			'link2' => 'GIMDU',
 			'link3' => 'Tectrum'
