@@ -15,7 +15,7 @@ return array(
 
 	'skoda' => array(
 		'headline' => 'Online Magazine extratouch',
-		'subline' => 'Das Online-Magazin extratouch von SKODA AUTO Deutschland'
+		'subline' => 'extratouch online magazine for SKODA AUTO Germany'
 	),
 
 	'krohne' => array(
@@ -34,18 +34,18 @@ return array(
 	),
 
 	'unternehmerverband' => array(
-		'headline' => 'Einfach gut.',
-		'subline' => 'Unternehmerverband und Haus der Unternehmer in TYPO3'
+		'headline' => 'Simply good.',
+		'subline' => 'Unternehmerverband and the Haus der Unternehmer in TYPO3'
 	),
 
 	'gfwduisburg' => array(
 		'headline' => 'GFW Duisburg',
-		'subline' => 'Der digitale Heimathafen für die Wirtschaftsförderung Duisburg'
+		'subline' => 'The digital home port for the official business promoter of Duisburg'
 	),
 
 	'supermagnetic' => array(
 		'headline' => 'Supermagnetic',
-		'subline' => 'Backend + API für Social Media Walls'
+		'subline' => 'Backend + API for your Social Media Wall'
 	),
 
 	//'regiodot' => array(
